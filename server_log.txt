@@ -1,0 +1,78 @@
+Message{text='Här kommer massa text', imageIcon=null, sender=entity.User@8587ad4f, recievers=[entity.User@3db5f7bf], timeStampClient=Thu Jun 22 11:17:18 CEST 2023, timeStampServer=Thu Jun 22 11:17:18 CEST 2023}
+Message{text='Bladiblour', imageIcon=null, sender=entity.User@8587ad4f, recievers=[entity.User@3db5f7bf], timeStampClient=Thu Jun 22 11:17:21 CEST 2023, timeStampServer=Thu Jun 22 11:17:21 CEST 2023}
+Message{text='Bla', imageIcon=null, sender=entity.User@8ccd79d4, recievers=[entity.User@3db5f7bf], timeStampClient=Thu Jun 22 11:22:09 CEST 2023, timeStampServer=Thu Jun 22 11:22:09 CEST 2023}
+Message{text='asd', imageIcon=null, sender=entity.User@8ccd79d4, recievers=[entity.User@3db5f7bf], timeStampClient=Thu Jun 22 11:22:09 CEST 2023, timeStampServer=Thu Jun 22 11:22:09 CEST 2023}
+Message{text='sdf', imageIcon=null, sender=entity.User@8ccd79d4, recievers=[entity.User@3db5f7bf], timeStampClient=Thu Jun 22 11:22:09 CEST 2023, timeStampServer=Thu Jun 22 11:22:09 CEST 2023}
+Message{text='dfg', imageIcon=null, sender=entity.User@8ccd79d4, recievers=[entity.User@3db5f7bf], timeStampClient=Thu Jun 22 11:22:09 CEST 2023, timeStampServer=Thu Jun 22 11:22:09 CEST 2023}
+Message{text='fgj', imageIcon=null, sender=entity.User@8ccd79d4, recievers=[entity.User@3db5f7bf], timeStampClient=Thu Jun 22 11:22:10 CEST 2023, timeStampServer=Thu Jun 22 11:22:10 CEST 2023}
+Message{text='ghk', imageIcon=null, sender=entity.User@8ccd79d4, recievers=[entity.User@3db5f7bf], timeStampClient=Thu Jun 22 11:22:10 CEST 2023, timeStampServer=Thu Jun 22 11:22:10 CEST 2023}
+Message{text='fgh', imageIcon=null, sender=entity.User@8ccd79d4, recievers=[entity.User@3db5f7bf], timeStampClient=Thu Jun 22 11:22:10 CEST 2023, timeStampServer=Thu Jun 22 11:22:10 CEST 2023}
+Message{text='dfg', imageIcon=null, sender=entity.User@8ccd79d4, recievers=[entity.User@3db5f7bf], timeStampClient=Thu Jun 22 11:22:10 CEST 2023, timeStampServer=Thu Jun 22 11:22:10 CEST 2023}
+Message{text='sd', imageIcon=null, sender=entity.User@8ccd79d4, recievers=[entity.User@3db5f7bf], timeStampClient=Thu Jun 22 11:22:10 CEST 2023, timeStampServer=Thu Jun 22 11:22:10 CEST 2023}
+Message{text='fs', imageIcon=null, sender=entity.User@8ccd79d4, recievers=[entity.User@3db5f7bf], timeStampClient=Thu Jun 22 11:22:11 CEST 2023, timeStampServer=Thu Jun 22 11:22:11 CEST 2023}
+Message{text='df', imageIcon=null, sender=entity.User@8ccd79d4, recievers=[entity.User@3db5f7bf], timeStampClient=Thu Jun 22 11:22:11 CEST 2023, timeStampServer=Thu Jun 22 11:22:11 CEST 2023}
+Message{text='asdljksknglsfg', imageIcon=null, sender=entity.User@3db5f7bf, recievers=[entity.User@8587ad4f], timeStampClient=Thu Jun 22 11:22:26 CEST 2023, timeStampServer=Thu Jun 22 11:22:26 CEST 2023}
+Message{text='sdflsdfgoujksdfnöasd', imageIcon=null, sender=entity.User@3db5f7bf, recievers=[entity.User@8587ad4f], timeStampClient=Thu Jun 22 11:22:28 CEST 2023, timeStampServer=Thu Jun 22 11:22:28 CEST 2023}
+Message{text='fds', imageIcon=null, sender=entity.User@3db5f7bf, recievers=[entity.User@8587ad4f], timeStampClient=Thu Jun 22 11:22:28 CEST 2023, timeStampServer=Thu Jun 22 11:22:28 CEST 2023}
+Message{text='df', imageIcon=null, sender=entity.User@3db5f7bf, recievers=[entity.User@8587ad4f], timeStampClient=Thu Jun 22 11:22:28 CEST 2023, timeStampServer=Thu Jun 22 11:22:28 CEST 2023}
+Message{text='dfg', imageIcon=null, sender=entity.User@3db5f7bf, recievers=[entity.User@8587ad4f], timeStampClient=Thu Jun 22 11:22:28 CEST 2023, timeStampServer=Thu Jun 22 11:22:28 CEST 2023}
+Message{text='dgh', imageIcon=null, sender=entity.User@3db5f7bf, recievers=[entity.User@8587ad4f], timeStampClient=Thu Jun 22 11:22:28 CEST 2023, timeStampServer=Thu Jun 22 11:22:28 CEST 2023}
+Message{text='fgh', imageIcon=null, sender=entity.User@3db5f7bf, recievers=[entity.User@8587ad4f], timeStampClient=Thu Jun 22 11:22:29 CEST 2023, timeStampServer=Thu Jun 22 11:22:29 CEST 2023}
+Message{text='df', imageIcon=null, sender=entity.User@3db5f7bf, recievers=[entity.User@8587ad4f], timeStampClient=Thu Jun 22 11:22:29 CEST 2023, timeStampServer=Thu Jun 22 11:22:29 CEST 2023}
+Message{text='sd', imageIcon=null, sender=entity.User@3db5f7bf, recievers=[entity.User@8587ad4f], timeStampClient=Thu Jun 22 11:22:29 CEST 2023, timeStampServer=Thu Jun 22 11:22:29 CEST 2023}
+Message{text='ga', imageIcon=null, sender=entity.User@3db5f7bf, recievers=[entity.User@8587ad4f], timeStampClient=Thu Jun 22 11:22:29 CEST 2023, timeStampServer=Thu Jun 22 11:22:29 CEST 2023}
+Message{text='sfg', imageIcon=null, sender=entity.User@3db5f7bf, recievers=[entity.User@8587ad4f], timeStampClient=Thu Jun 22 11:22:29 CEST 2023, timeStampServer=Thu Jun 22 11:22:29 CEST 2023}
+Message{text='dsghdghj', imageIcon=null, sender=entity.User@3db5f7bf, recievers=[entity.User@8587ad4f], timeStampClient=Thu Jun 22 11:22:30 CEST 2023, timeStampServer=Thu Jun 22 11:22:30 CEST 2023}
+Message{text='khg', imageIcon=null, sender=entity.User@3db5f7bf, recievers=[entity.User@8587ad4f], timeStampClient=Thu Jun 22 11:22:30 CEST 2023, timeStampServer=Thu Jun 22 11:22:30 CEST 2023}
+Message{text='lg', imageIcon=null, sender=entity.User@3db5f7bf, recievers=[entity.User@8587ad4f], timeStampClient=Thu Jun 22 11:22:30 CEST 2023, timeStampServer=Thu Jun 22 11:22:30 CEST 2023}
+Message{text='hjk', imageIcon=null, sender=entity.User@3db5f7bf, recievers=[entity.User@8587ad4f], timeStampClient=Thu Jun 22 11:22:30 CEST 2023, timeStampServer=Thu Jun 22 11:22:30 CEST 2023}
+Message{text='dgh', imageIcon=null, sender=entity.User@3db5f7bf, recievers=[entity.User@8587ad4f], timeStampClient=Thu Jun 22 11:22:31 CEST 2023, timeStampServer=Thu Jun 22 11:22:31 CEST 2023}
+Message{text='dg', imageIcon=null, sender=entity.User@3db5f7bf, recievers=[entity.User@8587ad4f], timeStampClient=Thu Jun 22 11:22:31 CEST 2023, timeStampServer=Thu Jun 22 11:22:31 CEST 2023}
+Message{text='s', imageIcon=null, sender=entity.User@3db5f7bf, recievers=[entity.User@8587ad4f], timeStampClient=Thu Jun 22 11:22:31 CEST 2023, timeStampServer=Thu Jun 22 11:22:31 CEST 2023}
+Message{text='a', imageIcon=null, sender=entity.User@3db5f7bf, recievers=[entity.User@8587ad4f], timeStampClient=Thu Jun 22 11:22:31 CEST 2023, timeStampServer=Thu Jun 22 11:22:31 CEST 2023}
+Message{text='sda', imageIcon=null, sender=entity.User@3db5f7bf, recievers=[entity.User@8587ad4f], timeStampClient=Thu Jun 22 11:22:31 CEST 2023, timeStampServer=Thu Jun 22 11:22:31 CEST 2023}
+Message{text='sd', imageIcon=null, sender=entity.User@3db5f7bf, recievers=[entity.User@8587ad4f], timeStampClient=Thu Jun 22 11:22:32 CEST 2023, timeStampServer=Thu Jun 22 11:22:32 CEST 2023}
+Message{text='asdg', imageIcon=null, sender=entity.User@3db5f7bf, recievers=[entity.User@8587ad4f], timeStampClient=Thu Jun 22 11:22:32 CEST 2023, timeStampServer=Thu Jun 22 11:22:32 CEST 2023}
+Message{text='dsg', imageIcon=null, sender=entity.User@3db5f7bf, recievers=[entity.User@8587ad4f], timeStampClient=Thu Jun 22 11:22:32 CEST 2023, timeStampServer=Thu Jun 22 11:22:32 CEST 2023}
+Message{text='hgd', imageIcon=null, sender=entity.User@3db5f7bf, recievers=[entity.User@8587ad4f], timeStampClient=Thu Jun 22 11:22:32 CEST 2023, timeStampServer=Thu Jun 22 11:22:32 CEST 2023}
+Message{text='hk', imageIcon=null, sender=entity.User@3db5f7bf, recievers=[entity.User@8587ad4f], timeStampClient=Thu Jun 22 11:22:32 CEST 2023, timeStampServer=Thu Jun 22 11:22:32 CEST 2023}
+Message{text='hjk', imageIcon=null, sender=entity.User@3db5f7bf, recievers=[entity.User@8587ad4f], timeStampClient=Thu Jun 22 11:22:33 CEST 2023, timeStampServer=Thu Jun 22 11:22:33 CEST 2023}
+Message{text='k', imageIcon=null, sender=entity.User@3db5f7bf, recievers=[entity.User@8587ad4f], timeStampClient=Thu Jun 22 11:22:33 CEST 2023, timeStampServer=Thu Jun 22 11:22:33 CEST 2023}
+Message{text='', imageIcon=null, sender=entity.User@3db5f7bf, recievers=[entity.User@8587ad4f], timeStampClient=Thu Jun 22 11:22:33 CEST 2023, timeStampServer=Thu Jun 22 11:22:33 CEST 2023}
+Message{text='sdf', imageIcon=null, sender=entity.User@3db5f7bf, recievers=[entity.User@8587ad4f], timeStampClient=Thu Jun 22 11:22:33 CEST 2023, timeStampServer=Thu Jun 22 11:22:33 CEST 2023}
+Message{text='asd', imageIcon=null, sender=entity.User@3db5f7bf, recievers=[entity.User@8587ad4f], timeStampClient=Thu Jun 22 11:22:34 CEST 2023, timeStampServer=Thu Jun 22 11:22:34 CEST 2023}
+Message{text='fa', imageIcon=null, sender=entity.User@3db5f7bf, recievers=[entity.User@8587ad4f], timeStampClient=Thu Jun 22 11:22:34 CEST 2023, timeStampServer=Thu Jun 22 11:22:34 CEST 2023}
+Message{text='sfg', imageIcon=null, sender=entity.User@3db5f7bf, recievers=[entity.User@8587ad4f], timeStampClient=Thu Jun 22 11:22:34 CEST 2023, timeStampServer=Thu Jun 22 11:22:34 CEST 2023}
+Message{text='sd', imageIcon=null, sender=entity.User@3db5f7bf, recievers=[entity.User@8587ad4f], timeStampClient=Thu Jun 22 11:22:34 CEST 2023, timeStampServer=Thu Jun 22 11:22:34 CEST 2023}
+Message{text='hd', imageIcon=null, sender=entity.User@3db5f7bf, recievers=[entity.User@8587ad4f], timeStampClient=Thu Jun 22 11:22:34 CEST 2023, timeStampServer=Thu Jun 22 11:22:34 CEST 2023}
+Message{text='fhj', imageIcon=null, sender=entity.User@3db5f7bf, recievers=[entity.User@8587ad4f], timeStampClient=Thu Jun 22 11:22:34 CEST 2023, timeStampServer=Thu Jun 22 11:22:34 CEST 2023}
+Message{text='fgj', imageIcon=null, sender=entity.User@3db5f7bf, recievers=[entity.User@8587ad4f], timeStampClient=Thu Jun 22 11:22:35 CEST 2023, timeStampServer=Thu Jun 22 11:22:35 CEST 2023}
+Message{text='k', imageIcon=null, sender=entity.User@3db5f7bf, recievers=[entity.User@8587ad4f], timeStampClient=Thu Jun 22 11:22:35 CEST 2023, timeStampServer=Thu Jun 22 11:22:35 CEST 2023}
+Message{text='fghjk', imageIcon=null, sender=entity.User@3db5f7bf, recievers=[entity.User@8587ad4f], timeStampClient=Thu Jun 22 11:22:35 CEST 2023, timeStampServer=Thu Jun 22 11:22:35 CEST 2023}
+Message{text='gfh', imageIcon=null, sender=entity.User@3db5f7bf, recievers=[entity.User@8587ad4f], timeStampClient=Thu Jun 22 11:22:35 CEST 2023, timeStampServer=Thu Jun 22 11:22:35 CEST 2023}
+Message{text='js', imageIcon=null, sender=entity.User@3db5f7bf, recievers=[entity.User@8587ad4f], timeStampClient=Thu Jun 22 11:22:35 CEST 2023, timeStampServer=Thu Jun 22 11:22:35 CEST 2023}
+Message{text='dfg', imageIcon=null, sender=entity.User@3db5f7bf, recievers=[entity.User@8587ad4f], timeStampClient=Thu Jun 22 11:22:36 CEST 2023, timeStampServer=Thu Jun 22 11:22:36 CEST 2023}
+Message{text='af', imageIcon=null, sender=entity.User@3db5f7bf, recievers=[entity.User@8587ad4f], timeStampClient=Thu Jun 22 11:22:36 CEST 2023, timeStampServer=Thu Jun 22 11:22:36 CEST 2023}
+Message{text='dg', imageIcon=null, sender=entity.User@3db5f7bf, recievers=[entity.User@8587ad4f], timeStampClient=Thu Jun 22 11:22:36 CEST 2023, timeStampServer=Thu Jun 22 11:22:36 CEST 2023}
+Message{text='Gamle gode klientb', imageIcon=null, sender=entity.User@8587ad4f, recievers=[entity.User@3db5f7bf], timeStampClient=Thu Jun 22 11:39:31 CEST 2023, timeStampServer=Thu Jun 22 11:39:31 CEST 2023}
+Message{text='Så trevligt att göra eder bekantskap', imageIcon=null, sender=entity.User@8587ad4f, recievers=[entity.User@3db5f7bf], timeStampClient=Thu Jun 22 11:39:40 CEST 2023, timeStampServer=Thu Jun 22 11:39:40 CEST 2023}
+Message{text='Här kan man skicka lite meddelanden', imageIcon=null, sender=entity.User@8587ad4f, recievers=[entity.User@3db5f7bf], timeStampClient=Thu Jun 22 16:18:47 CEST 2023, timeStampServer=Thu Jun 22 16:18:47 CEST 2023}
+Message{text='Här kommer lite meddelanden', imageIcon=null, sender=entity.User@8587ad4f, recievers=[entity.User@8ccd79d4], timeStampClient=Thu Jun 22 16:25:51 CEST 2023, timeStampServer=Thu Jun 22 16:25:51 CEST 2023}
+Message{text='Det tycker du väl om', imageIcon=null, sender=entity.User@8587ad4f, recievers=[entity.User@8ccd79d4], timeStampClient=Thu Jun 22 16:26:01 CEST 2023, timeStampServer=Thu Jun 22 16:26:01 CEST 2023}
+Message{text='Här kan man skriva', imageIcon=null, sender=entity.User@8587ad4f, recievers=[entity.User@8ccd79d4], timeStampClient=Thu Jun 22 17:09:07 CEST 2023, timeStampServer=Thu Jun 22 17:09:07 CEST 2023}
+Message{text='Skojjigt', imageIcon=null, sender=entity.User@8ccd79d4, recievers=[entity.User@8587ad4f], timeStampClient=Thu Jun 22 17:09:38 CEST 2023, timeStampServer=Thu Jun 22 17:09:38 CEST 2023}
+Message{text='Det går braaaaaaaaaaaaaaaa', imageIcon=null, sender=entity.User@8587ad4f, recievers=[entity.User@8ccd79d4], timeStampClient=Thu Jun 22 17:16:17 CEST 2023, timeStampServer=Thu Jun 22 17:16:17 CEST 2023}
+Message{text='Tjeeena!', imageIcon=null, sender=entity.User@8587ad4f, recievers=[entity.User@3db5f7bf], timeStampClient=Thu Jun 22 17:31:30 CEST 2023, timeStampServer=Thu Jun 22 17:31:30 CEST 2023}
+Message{text='', imageIcon=javax.swing.ImageIcon@fc40f81, sender=entity.User@8587ad4f, recievers=[entity.User@3db5f7bf], timeStampClient=Thu Jun 22 17:31:36 CEST 2023, timeStampServer=Thu Jun 22 17:31:36 CEST 2023}
+Message{text='Hellooo?', imageIcon=null, sender=entity.User@3cfe917, recievers=[entity.User@417b4db9], timeStampClient=Fri Jun 23 10:18:35 CEST 2023, timeStampServer=Fri Jun 23 10:18:35 CEST 2023}
+Message{text='No please', imageIcon=null, sender=entity.User@417b4db9, recievers=[entity.User@3cfe917], timeStampClient=Fri Jun 23 10:18:51 CEST 2023, timeStampServer=Fri Jun 23 10:18:51 CEST 2023}
+Message{text='IIiiit's mee!', imageIcon=null, sender=entity.User@3cfe917, recievers=[entity.User@417b4db9], timeStampClient=Fri Jun 23 10:19:11 CEST 2023, timeStampServer=Fri Jun 23 10:19:11 CEST 2023}
+Message{text='Kill it with fire', imageIcon=null, sender=entity.User@417b4db9, recievers=[entity.User@3cfe917], timeStampClient=Fri Jun 23 10:19:21 CEST 2023, timeStampServer=Fri Jun 23 10:19:21 CEST 2023}
+Message{text='So rude!', imageIcon=null, sender=entity.User@3cfe917, recievers=[entity.User@417b4db9], timeStampClient=Fri Jun 23 10:19:31 CEST 2023, timeStampServer=Fri Jun 23 10:19:31 CEST 2023}
+Message{text='Urchin Hitler', imageIcon=null, sender=entity.User@3cfe917, recievers=[entity.User@417b4db9], timeStampClient=Fri Jun 23 10:19:54 CEST 2023, timeStampServer=Fri Jun 23 10:19:54 CEST 2023}
+Message{text='Is unwell', imageIcon=null, sender=entity.User@417b4db9, recievers=[entity.User@3cfe917], timeStampClient=Fri Jun 23 10:20:14 CEST 2023, timeStampServer=Fri Jun 23 10:20:14 CEST 2023}
+Message{text='Is youuuuu!', imageIcon=javax.swing.ImageIcon@bb6a1fb, sender=entity.User@417b4db9, recievers=[entity.User@3cfe917], timeStampClient=Fri Jun 23 10:20:28 CEST 2023, timeStampServer=Fri Jun 23 10:20:28 CEST 2023}
+Message{text='It is!', imageIcon=null, sender=entity.User@3cfe917, recievers=[entity.User@417b4db9], timeStampClient=Fri Jun 23 10:20:39 CEST 2023, timeStampServer=Fri Jun 23 10:20:39 CEST 2023}
+Message{text='I look fly', imageIcon=null, sender=entity.User@3cfe917, recievers=[entity.User@417b4db9], timeStampClient=Fri Jun 23 10:20:46 CEST 2023, timeStampServer=Fri Jun 23 10:20:46 CEST 2023}
+Message{text='Bye Byee now! Bye Byee!', imageIcon=null, sender=entity.User@3cfe917, recievers=[entity.User@417b4db9], timeStampClient=Fri Jun 23 10:21:02 CEST 2023, timeStampServer=Fri Jun 23 10:21:02 CEST 2023}
+Message{text='Helloo?', imageIcon=null, sender=entity.User@3cfe917, recievers=[entity.User@417b4db9], timeStampClient=Fri Jun 23 10:21:48 CEST 2023, timeStampServer=Fri Jun 23 10:21:48 CEST 2023}
